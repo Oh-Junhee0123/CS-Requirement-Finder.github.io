@@ -22,6 +22,6 @@ function CSMSClock()
     const hour = String(Math.floor((untilCSMS / (1000 * 3600)) % 24)).padStart(2, "0");  
     const minute = String(Math.floor((untilCSMS / (1000 * 60)) % 60)).padStart(2, "0");  
     const second = String(Math.floor((untilCSMS / 1000) % 60)).padStart(2,"0");  
-    clockTitle.innerText = `${day}일 ${hour}시 ${minute}분 ${second}초`;
+    clockTitle.innerText = `${day}:${hour}:${minute}:${second}`;
 } 
 setInterval(CSMSClock, 1000);
