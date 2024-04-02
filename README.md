@@ -5,6 +5,8 @@
 - Study CSMS (Cybersecurity Management System) and SUMS (Software Update Management System)
 - Provides guidance on CS Requirements
 
+<b>This project was used to write [Oh Junhee's](https://github.com/Oh-Junhee0123) [thesis](https://lib.dankook.ac.kr/dcollection/public_resource/pdf/000000199819_20240402190454.pdf).</b>
+
 ## LICENSE
 
 <b>&lt;Stylish Portolio template for Jekyll&gt;</b>
