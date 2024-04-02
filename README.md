@@ -1,10 +1,19 @@
-# Stylish Portolio template for Jekyll
+# CS Requirement Finder
+
+[This page](https://oh-junhee0123.github.io/CS-Requirement-Finder.github.io/) has the following three purposes.
+- Portfolio
+- Study CSMS (Cybersecurity Management System) and SUMS (Software Update Management System)
+- Provides guidance on CS Requirements
+
+## LICENSE
+
+- Stylish Portolio template for Jekyll
 
 A Jekyll implementation of the [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) template by [Start Bootstrap](http://startbootstrap.com/).
 
 See the site in action at https://volny.github.io/stylish-portfolio-jekyll/
 
-## To use the Stylish Portfolio template in your project
+- To use the Stylish Portfolio template in your project
 
 - Start by adding your info in `_config.yml`
 - Add as many address lines as you want. Your address will also be used to show your location on the map.
